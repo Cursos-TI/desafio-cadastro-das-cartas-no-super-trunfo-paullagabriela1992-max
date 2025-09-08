@@ -12,10 +12,29 @@ int main() {
     include <stdio.h>
 
     int main() {
+
   int populaçao;= 2,4
-  char nome[13];=belo horizonte
-  float area em km;331,4
-  float PIB;105,8
+
+  char nome[13];= belo horizonte
+
+  float area em km;=331,4
+
+  float PIB;=105,8
+
+  include <stdio.h>
+  int main () {
+    int populaçao;= 129,372
+
+    char nome [6];= sabara
+
+    float area em km;= 303,564
+
+    float PIB;= 30.474,48
+
+
+
+
+  }
 
 
 
