@@ -9,7 +9,19 @@ printf ("novo commit\n");
 int main() {
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
-    
+    include <stdio.h>
+
+    int main() {
+  int populaçao;= 2,4
+  char nome[13];=belo horizonte
+  float area em km;331,4
+  float PIB;105,8
+
+
+
+
+
+    }
     // Cadastro das Cartas:
     // Sugestão: Utilize a função scanf para capturar as entradas do usuário para cada atributo.
     // Solicite ao usuário que insira as informações de cada cidade, como o código, nome, população, área, etc.
