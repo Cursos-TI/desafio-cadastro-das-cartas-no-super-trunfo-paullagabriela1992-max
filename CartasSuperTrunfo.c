@@ -13,6 +13,16 @@ int main() {
 
     int main() {
 
+      /#
+    soma (+)
+    subtração (-)
+    multiplicação (*)
+    divisão (/)
+     */
+    Carta1 Belo Horizinte
+
+    Carta2 Sabará
+
   int populaçao;= 2,4
 
   char nome[13];= belo horizonte
@@ -20,6 +30,13 @@ int main() {
   float area em km;=331,4
 
   float PIB;=105,8
+
+  float densidade populacional; = 6.988,18
+
+    float PIB per capita;= 41.818,32
+
+    // printf(divida densidade populacional pelo PIB per capita:\n);
+
 
   include <stdio.h>
   int main () {
@@ -30,6 +47,10 @@ int main() {
     float area em km;= 303,564
 
     float PIB;= 30.474,48
+
+    float densidade populacional; = 427,77
+
+    float PIB per capita; = 30.474,48
 
 
 
