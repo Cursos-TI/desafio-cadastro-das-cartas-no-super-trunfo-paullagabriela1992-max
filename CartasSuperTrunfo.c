@@ -31,11 +31,11 @@ int main() {
 
   float PIB;=105,8
 
-  float densidade populacional; = 6.988,18
+  float numeros de pontos turisticos;= 5
 
-    float PIB per capita;= 41.818,32
+    
 
-    // printf(divida densidade populacional pelo PIB per capita:\n);
+    
 
 
   include <stdio.h>
@@ -48,9 +48,7 @@ int main() {
 
     float PIB;= 30.474,48
 
-    float densidade populacional; = 427,77
-
-    float PIB per capita; = 30.474,48
+    float numeros de pontos turisticos;= 5
 
 
 
